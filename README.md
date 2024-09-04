@@ -35,3 +35,5 @@
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 
 ![Dusan Badza's GitHub stats](https://github-readme-stats-v8sz.vercel.app/api?username=Badza94&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=issues,stars)
+
+![Top Langs](https://github-readme-stats-v8sz.vercel.app/api/top-langs/?username=Badza94&theme=dark&hide=php,hack&layout=donut)
